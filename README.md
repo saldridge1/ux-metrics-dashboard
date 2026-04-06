@@ -129,6 +129,14 @@ Industry passing threshold: **68**
 
 ---
 
+## Support This Work
+
+If this framework has been useful for your GovCon pursuits, consider buying me a coffee. It helps me keep building open source tools for the design and GovCon community.
+
+☕ [Buy Me a Coffee](https://buymeacoffee.com/teamdesignstudios)
+
+---
+
 ## Related Repositories
 
 - [ux-case-study](https://github.com/saldridge1/ux-case-study) — Enterprise SaaS Feature Adoption Case Study
